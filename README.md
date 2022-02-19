@@ -7,3 +7,6 @@ one page datasheet  !!!
 
 ![image](https://user-images.githubusercontent.com/58062859/154808329-7e0502e2-5c31-4521-a4d0-ca1902f0a61a.png)
 
+schematic 
+
+![image](https://user-images.githubusercontent.com/58062859/154811682-0abfbe76-5a1c-4eb0-9ee9-1c1f5687f0cf.png)
